@@ -1,6 +1,6 @@
 exports.createDocument = function (lesson) {
     
-    const element = document.createElement('iframe');        
+    const element = document.createElement('iframe');
     element.setAttribute('width', '1366px');
     element.setAttribute('height', '623px');
     element.setAttribute('frameborder', '0');

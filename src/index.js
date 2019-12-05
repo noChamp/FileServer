@@ -1,7 +1,7 @@
 import lesson from './lesson.json';
 import title from './components/title/title.js';
 import video from './components/video/video.js';
-import audio from './components/audio/audio';
+import audio from './components/audio/audio.js';
 import doc from './components/document/document.js';
 
 function component() {
