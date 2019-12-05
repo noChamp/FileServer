@@ -15,7 +15,7 @@ module.exports = {
   },
   plugins: [
     new CleanWebpackPlugin(),
-    new HtmlWebpackPlugin({title: 'webpack template app'})
+    new HtmlWebpackPlugin({title: 'שיעורי הרב רוזנבלום'})
   ],
   module: {
     rules: [
