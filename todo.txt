@@ -5,17 +5,18 @@ check if contet exists - if null prevent exception
 display pdf viewer
 check the 'document' property to choose what viewer to display
 display teaser
+make sure each lesson page url is unique so user can bookmark it
 
 nice to have:
 responsive for mobiles
+tag cloud for most liked lessons
 
 ask others:
 split doc to each year and make them shared
 
 CI:
-do this with react in VS Code
+do this with react
 read config file with guid to prevent browser caching
-generate with WebPack! to auto refresh
 
 audio:
 play audio - hawl has caching
